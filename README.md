@@ -1,16 +1,34 @@
-## Hi there 👋
+# Jonatan Martins
 
-<!--
-**jonatan-martins/jonatan-martins** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Desarrollador web apasionado por la IA y la automatización de procesos.**
 
-Here are some ideas to get you started:
+Me obsesiona encontrar la forma más eficiente de hacer las cosas — ya sea construyendo una aplicación empresarial desde cero o integrando IA donde nadie esperaba que cupiera.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Actualmente: construyendo productos propios y ayudando a negocios reales a dejar de perder tiempo con procesos manuales y trabajando por cuenta ajena.
+
+---
+
+## 🚀 Lo que me mueve
+- **Optimizar procesos** que consumen tiempo sin aportar valor.
+- **Integrar IA de forma práctica**, no como experimento.
+- **Crear aplicaciones empresariales** que la gente use de verdad.
+- **Aprendizaje continuo:** Aprender algo nuevo cada semana y aplicarlo de inmediato.
+
+---
+
+## 📊 Actividad en GitHub
+<p align="left">
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&title_color=fff&icon_color=79ff33&text_color=9f9f9f&bg_color=0d1117&hide_border=true&locale=es" alt="Estadísticas de Jonatan" />
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&title_color=fff&icon_color=79ff33&text_color=9f9f9f&bg_color=0d1117&hide_border=true&locale=es" alt="Lenguajes más usados" />
+</p>
+
+---
+
+## 🌐 Encuéntrame
+[**jonatanmartins.dev**](https://jonatanmartins.dev) · 
+[**TikTok**](https://www.tiktok.com/@jonatanmartinsdev) · 
+[**jonatan@jonatanmartins.dev**](mailto:jonatan@jonatanmartins.dev)
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=TU_USUARIO&label=Profile%20Views&color=79ff33&style=flat-square" alt="Vistas" />
